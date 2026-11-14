@@ -1,7 +1,0 @@
-account,pattern
-ACC9001,structuring
-ACC9010,fan_in_out
-ACC9020,cycle
-ACC9021,cycle
-ACC9022,cycle
-ACC9030,pass_through
